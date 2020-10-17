@@ -1,6 +1,6 @@
 # Simple Pokedex Using Webpack
 
-[Home Page]("https://github.com/SamX23/pokedex-dicoding/blob/master/screenshot/pokemon.png")
+<img height="600" src="https://github.com/SamX23/pokedex-dicoding/blob/master/screenshot/pokemon.png">
 
 ## How to use
 
@@ -16,4 +16,4 @@ Start development
 Building apps
 'npm run build'
 
-[LIVE]["https://samx23.github.io/pokedex-dicoding/"]
+[LIVE]("https://samx23.github.io/pokedex-dicoding/")
