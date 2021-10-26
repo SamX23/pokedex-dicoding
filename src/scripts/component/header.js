@@ -12,7 +12,7 @@ class HeaderBar extends HTMLElement {
                 text-align: center;
                 width: 100%;
                 display: block;
-                background: rgb(0, 139, 253);
+                background: #fefefe;
                 border-radius: 0 0 50px 50px;
                 border: 3px solid rgba(48, 200, 214);
                 animation: lineRGB 6s linear 1s infinite alternate;
