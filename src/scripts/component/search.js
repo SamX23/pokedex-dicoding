@@ -55,7 +55,8 @@ class SearchBar extends HTMLElement {
             }
 
             .search-container>input::placeholder {
-                color: cornflowerblue;
+                color: #181b1b;
+                opacity: 70%;
                 font-weight: normal;
             }
 
@@ -63,11 +64,16 @@ class SearchBar extends HTMLElement {
                 width: 23%;
                 cursor: pointer;
                 margin-left: auto;
-                background-color: rgb(0, 139, 253);
+                background-color: #181b1b;
                 color: white;
                 border-radius: 25px;
                 border: 0;
                 text-transform: uppercase;
+                transition: 0.3s;
+            }
+            .search-container>button:hover {
+              width: 28%;
+              transition: 0.3s;
             }
         </style>
 
